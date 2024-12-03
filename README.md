@@ -12,6 +12,8 @@ In this project, I have:
 -   Applied methods learned in the course to harden and secure the environment
 -   Designed a DevSecOps pipeline
 
+![](https://video.udacity-data.com/topher/2020/February/5e46ed35_aws-webservicediagram-v1-insecure/aws-webservicediagram-v1-insecure.png)
+
 ## Project Files
 
 -   `E1T4.md`: Text file identifying 2 poor security practices with justification for the `AWS-WebServiceDiagram-v1-insecure.png` architectural model.
